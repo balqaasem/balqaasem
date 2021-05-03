@@ -3,6 +3,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBA-Khalifa&show_icons=true&theme=radical)
 
 <!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBA-Khalifa&layout=compact&hide=html" alt="JBA-Khalifa" /></p>
+
 **JBA-Khalifa/JBA-Khalifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
