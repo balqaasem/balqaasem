@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! Salam Alaikum!! 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBA-Khalifa&show_icons=true&theme=radical)
 
 <!--
 **JBA-Khalifa/JBA-Khalifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
