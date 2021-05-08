@@ -4,7 +4,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/iamkhalifaMBA?label=iamkhalifaMBA&logo=twitter&style=for-the-badge)
 
 ![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBA-Khalifa&show_icons=true&theme=radical)
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBA-Khalifa&layout=compact&hide=html" alt="JBA-Khalifa" /></p>
 
 - 🔭 I’m currently working on Setheum ...
@@ -14,3 +14,4 @@
 - 💬 Ask me about Setheum ...
 - 📫 How to reach me: [Email](mailto:jbashir52@gmail.com) , [LinkedIn](https://linkedin.com/in/muhammad-jibril) ...
 - ⚡ Fun fact: I draw!
+-->
