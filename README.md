@@ -4,9 +4,9 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/iamkhalifaMBA?label=iamkhalifaMBA&logo=twitter&style=for-the-badge)
 
 ![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBA-Khalifa&show_icons=true&theme=radical)
-<!--
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBA-Khalifa&layout=compact&hide=html" alt="JBA-Khalifa" /></p>
--->
+
 - 🔭 Currently working on Setheum ...
 - 🌱 learning Turkish ...
 - 👯 Looking to collaborate on DeFi Building Blocks, especially Islamic Finance (Zero-Interest Economic Model) ...
