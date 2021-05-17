@@ -2,6 +2,8 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/iamkhalifaMBA?label=iamkhalifaMBA&logo=twitter&style=for-the-badge)
 
+![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBA-Khalifa&show_icons=true&theme=radical)
+
 ## ✉️ Find me on:
 
 
@@ -28,10 +30,6 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
-
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBA-Khalifa&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBA-Khalifa&theme=tokyonight)
 
 - 🔭 Currently working on Setheum ...
 - 🌱 learning Turkish ...
