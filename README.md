@@ -16,7 +16,7 @@
 
 <br />
  
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBA-Khalifa&show_icons=true&theme=radical)
+![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBA-Khalifa&show_icons=true&theme=radical) 
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -46,11 +46,7 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emexbazz&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JBA-Khalifa&theme=dark" alt="JBA-Khalifa"/> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JBA-Khalifa&theme=radical" alt="JBA-Khalifa"/> 
 </p>
 
 - 🔭 Currently working on Setheum ...
