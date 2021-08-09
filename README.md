@@ -14,7 +14,7 @@ Peaceful Hello! Salam Alaikum!! 👋
 
 <br />
  
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBA-Khalifa&show_icons=true&theme=radical) 
+![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBA-Khalifa&show_icons=true&theme=hacker) 
 
 ## 🧰 Languages and Tools:
 <p>
