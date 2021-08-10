@@ -1,10 +1,13 @@
 <H1 align="center">
 Peaceful Hello! Salam Alaikum!! 👋
-</H1>
-
+ 
 ![Twitter Follow](https://img.shields.io/twitter/follow/iamkhalifaMBA?label=iamkhalifaMBA&logo=twitter&style=for-the-badge)
 
 <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
+
+## I am a Crypto Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## ✉️ Find me on:
 
