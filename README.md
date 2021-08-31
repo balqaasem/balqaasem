@@ -17,6 +17,10 @@ Peaceful Hello! Salam Alaikum!! 👋
 
 <br />
  
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=JBA-Khalifa&column=7&theme=onedark"/>
+</p>
+ 
 ![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBA-Khalifa&show_icons=true&theme=hacker) 
 
 ## 🧰 Languages and Tools:
