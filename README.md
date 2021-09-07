@@ -1,5 +1,5 @@
 <H1 align="center">
-Peaceful Hello! Salam Alaikum!! 👋
+Peaceful Hello! As-Salam Alaikum!! 👋
  </br>
  Peace be upon You!!!
  
