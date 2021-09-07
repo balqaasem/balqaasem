@@ -1,7 +1,7 @@
 <H1 align="center">
 Peaceful Hello! Salam Alaikum!! 👋
  </br>
- Peace be upoin You!!!
+ Peace be upon You!!!
  
 ![Twitter Follow](https://img.shields.io/twitter/follow/iamkhalifaMBA?label=iamkhalifaMBA&logo=twitter&style=for-the-badge)
 
