@@ -17,13 +17,17 @@ Peaceful Hello! As-Salam Alaikum!! 👋
  <a href="https://linktr.ee/iamkhalifamba/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">  </a><a href="https://linkedin.com/in/muhammad-jibril" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> <a href="mailto:jbashir52@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JBA-Khalifa&theme=radical" alt="JBA-Khalifa"/>  
+</p>
+
 <br />
  
-<p align="center">
+![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBA-Khalifa&show_icons=true&theme=hacker) 
+<p>
     <img src="https://github-profile-trophy.vercel.app/?username=JBA-Khalifa&column=7&theme=onedark"/>
 </p>
  
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBA-Khalifa&show_icons=true&theme=hacker) 
 
 ## 🧰 Languages and Tools:
 <p>
@@ -61,9 +65,10 @@ Peaceful Hello! As-Salam Alaikum!! 👋
 
 ---
 
+
 <p>
  <!--
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JBA-Khalifa&theme=radical" alt="JBA-Khalifa"/>  
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBA-Khalifa&layout=compact&hide=html" alt="JBA-Khalifa" />
  -->
 </p>
 
