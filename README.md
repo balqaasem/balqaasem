@@ -1,6 +1,6 @@
 <H1 align="center">
 Peaceful Hello! </br>
-As-Salam Alaikum!! 👋
+As-Salam Alaikum!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  </br>
  Peace be upon You!!!
  
@@ -61,16 +61,19 @@ As-Salam Alaikum!! 👋
 
 
 <p>
- <!--
+ 
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBA-Khalifa&layout=compact&hide=html" alt="JBA-Khalifa" />
- -->
+
 </p>
 
+<p align="center"<a href="#"><img alt="Muhammad-Jibril's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JBA-Khalifa&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+
+<br>
 - 🔭 Currently working on Setheum...
 - 🌱 learning Languages, I love People... I draw! I love Cats and Horses!!
 - 👯 Looking to collaborate on DeFi Building Blocks, especially Islamic Finance (Zero-Interest Economic Model) ...
-- 🤔 You are welcome to contribute...
-- 💬 Ask me about Setheum...
-- ⚡ Fun fact: I am not a friend of Capitalism, I am the opposite of Nationalism, the enemy of Racism, and the advocate of Monotheism, I am a Muslim.
+- 🤔 You are welcome to contribute... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+- 💬 Ask me about Setheum... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+- ⚡ Fun fact: I am not a friend of Capitalism, I am the opposite of Nationalism, the enemy of Racism, and the advocate of Monotheism, I am a Muslim. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![snake svg](https://github.com/JBA-Khalifa/JBA-Khalifa/blob/output/github-contribution-grid-snake.svg)
