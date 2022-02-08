@@ -22,7 +22,7 @@ As-Salam Alaikum!! <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
  
 ![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBA-Khalifa&show_icons=true&theme=hacker) 
  
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBA-Khalifa&layout=compact&hide=html" alt="JBA-Khalifa"/>
 ## 🧰 Languages and Tools:
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -60,13 +60,7 @@ As-Salam Alaikum!! <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
 ---
 
 
-<p>
- 
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBA-Khalifa&layout=compact&hide=html" alt="JBA-Khalifa" />
-
-</p>
-
-<p align="center"<a href="#"><img alt="Muhammad-Jibril's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JBA-Khalifa&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Muhammad-Jibril's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JBA-Khalifa&bg_color=122d30&color=ffffff&line=ff29ed&point=4dffd2&area=true&hide_border=true" /></a></p>
 
 <br>
 - 🔭 Currently working on Setheum...
