@@ -50,15 +50,14 @@ As-Salam Alaikum!! <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
  
----
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JBA-Khalifa&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="JBA-Khalifa" /></p>
 
-</p>
+---
 <p align="center">  
 <img src="https://steamuserimages-a.akamaihd.net/ugc/2419998257285703812/AA29C335462FF165313CD8F167496E0C869028FA/" width="1200">
 </p>
 
 ---
-
 
 <p align="center"<a href="#"><img alt="Muhammad-Jibril's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JBA-Khalifa&bg_color=122d30&color=ffffff&line=ff29ed&point=4dffd2&area=true&hide_border=true" /></a></p>
 
