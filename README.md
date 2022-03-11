@@ -4,7 +4,7 @@ As-Salam Alaikum!! <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
  </br>
  Peace be upon You!!!
  
-![Twitter Follow](https://img.shields.io/twitter/follow/iamkhalifaMBA?label=iamkhalifaMBA&logo=twitter&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/iamKhalifaMBA?label=iamKhalifaMBA&logo=twitter&style=for-the-badge)
 
 <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
 
