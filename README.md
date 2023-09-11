@@ -4,7 +4,7 @@ As-Salam Alaikum!! <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
  </br>
  Peace be upon You!!!
  
-![Twitter Follow](https://img.shields.io/twitter/follow/iamKhalifaMBA?label=iamKhalifaMBA&logo=twitter&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/alfellati?label=alfellati&logo=twitter&style=for-the-badge)
 
 <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
 
@@ -15,14 +15,14 @@ As-Salam Alaikum!! <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
 ## ✉️ Find me on:
 
 <p>
- <a href="https://linktr.ee/iamkhalifamba/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">  </a><a href="https://linkedin.com/in/muhammad-jibril" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> <a href="mailto:jbashir52@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> <a href="https://linkedin.com/in/alfellati" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> <a href="mailto:jbashir52@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
  
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBA-Khalifa&show_icons=true&theme=hacker) 
+![Muhammad-Jibril's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfellati&show_icons=true&theme=hacker) 
  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBA-Khalifa&layout=compact&hide=html" alt="JBA-Khalifa"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfellati&layout=compact&hide=html" alt="alfellati"/>
 ## 🧰 Languages and Tools:
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -48,7 +48,7 @@ As-Salam Alaikum!! <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
  
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JBA-Khalifa&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="JBA-Khalifa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alfellati&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="alfellati" /></p>
 
 ---
 <p align="center">  
@@ -57,7 +57,7 @@ As-Salam Alaikum!! <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
 
 ---
 
-<p align="center"<a href="#"><img alt="Muhammad-Jibril's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JBA-Khalifa&bg_color=122d30&color=ffffff&line=ff29ed&point=4dffd2&area=true&hide_border=true" /></a></p>
+<p align="center"<a href="#"><img alt="Muhammad-Jibril's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alfellati&bg_color=122d30&color=ffffff&line=ff29ed&point=4dffd2&area=true&hide_border=true" /></a></p>
 
 <br>
 - 🔭 Currently working on Setheum...
@@ -67,4 +67,4 @@ As-Salam Alaikum!! <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
 - 💬 Ask me about Setheum... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - ⚡ Fun fact: I am not a friend of Capitalism, I am the opposite of Nationalism, the enemy of Racism, and the advocate of Monotheism, I am a Muslim. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![snake svg](https://github.com/JBA-Khalifa/JBA-Khalifa/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/alfellati/alfellati/blob/output/github-contribution-grid-snake.svg)
