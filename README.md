@@ -12,17 +12,24 @@ As-Salam Alaikum!! <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+<!--
 ## ✉️ Find me on:
 
 <p>
  <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> <a href="https://linkedin.com/in/alfellati" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> <a href="mailto:jbashir52@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
+</p> -->
 
 <br />
  
-![Muhammad-Jibril's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfellati&show_icons=true&theme=hacker) 
- 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfellati&layout=compact&hide=html" alt="alfellati"/>
+### Stats (Public Repos Only)
+
+[![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfellati&show=reviews,prs_merged&show_icons=true&hide_title=true&include_all_commits=true&theme=transparent)](https://github.com/alfellati/github-readme-stats)
+
+<!-- ![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfellati&show_icons=true&theme=transparent)  -->
+
+[![Muhammad's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfellati&layout=pie&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfellati&hide=html" alt="alfellati"/> -->
 ## 🧰 Languages and Tools:
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
