@@ -30,15 +30,15 @@ As-Salam Alaikum!! <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balqaasem&hide=html" alt="balqaasem"/> -->
 ## 🧰 Languages and Tools:
 <p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="Rust" height="40" style="vertical-align:top; margin:4px">
+ 
+<img src="https://github.com/carlosbaraza/web-assembly-logo/blob/master/dist/logo/web-assembly-logo.png" alt="WASM" height="40" style="vertical-align:top; margin:4px">
  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px">
  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="Rust" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
- 
-<img src="https://github.com/carlosbaraza/web-assembly-logo/blob/master/dist/logo/web-assembly-logo.png" alt="WASM" height="40" style="vertical-align:top; margin:4px">
  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="NPM" height="40" style="vertical-align:top; margin:4px">
   
