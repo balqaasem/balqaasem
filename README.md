@@ -62,7 +62,7 @@ As-Salam Alaikum!! <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
 
 ---
 
-<p align="center"<a href="#"><img alt="Muhammad-Jibril's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=balqaasem&bg_color=122d30&color=ffffff&line=ff29ed&point=4dffd2&area=true&hide_border=true" /></a></p>
+<p align="center"<a href="#"><img alt="Muhammad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=balqaasem&bg_color=122d30&color=ffffff&line=ff29ed&point=4dffd2&area=true&hide_border=true" /></a></p>
 
 <br>
 - 🔭 Currently working on Setheum...
