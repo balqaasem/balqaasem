@@ -6,9 +6,11 @@
 Peace be upon You
  
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</H1>
 
 <H3 align="center">
 I'm a POP STAR (Philomathic Optimistic Pantomathic Scientist, Teacher, Artist and Researcher) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</H3>
 
 <br />
  
@@ -16,7 +18,8 @@ I'm a POP STAR (Philomathic Optimistic Pantomathic Scientist, Teacher, Artist an
 
 <H4 align="center">
 Stats (Public Repos Only)
- 
+</H4>
+
 <br />
 
 <br />
@@ -43,7 +46,10 @@ Stats (Public Repos Only)
 ---
 
 <br>
-- 🌱 learning Languages, I love People... I draw! I love Cats and Horses!!
-- 👯 Looking to collaborate on DeFi Building Blocks, especially Islamic Finance (Zero-Interest Economic Model) ...
+- 🌱 learning Languages.
+<br>
+- 👯 Looking to collaborate on DeFi Building Blocks, especially Islamic Finance (Zero-Interest Economic Model).
+<br>
 - 🤔 You are welcome to contribute... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<br>
 - ⚡ Fun fact: I am not of Nationalism, I am the enemy of Racism, and the advocate of Monotheism, I am a Muslim. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
