@@ -45,6 +45,26 @@ Stats (Public Repos Only)
 
 ---
 
+## ✨ Featured Projects
+
+- [MontRS](https://github.com/afsall-inc/montrs): The Most Comprehensive Full-Stack Cross-Platform Framework (Powered by Leptos).
+- [MontrealTS](https://github.com/balqaasem/montreal-ts): Montreal is an open source production-grade SaaS-ready boilerplate for modern Next.js apps (Typescript, NextJS).
+- [Setheum](https://github.com/setheum/setheum): The Subsecond Quantum-Resistant Smart Contract Blockchain.
+- [SetheumJS](https://setheum.js.org/): An RxJS SDK and API Library for the Setheum Blockchain.
+- [Forehead](https://github.com/afsall-inc/forehead): A tool for creating and maintaining file headers for code license.
+- [Changelogger](https://github.com/afsall-inc/changelogger): A tool for auto generating PR Docs and CHANGELOG.md files. With support for CLI and CI/CD.
+- [Timely Pass](https://github.com/afsall-inc/timely-pass): Composable, and modular Rust SDK and CLI tool for managing local, time-based password policies.
+- [SERP STP258 Tokens](https://github.com/balqaasem/stp258-tokens): A MultiCurrency Algorithmic Stablecoin Substrate Pallet.
+- [STP258 Currencies](https://crates.io/crates/stp258-currencies): A High-level MultiCurrency Algorithmic Stablecoin Substrate Pallet based on STP258 Tokens.
+- [Settpay](https://github.com/balqaasem/settpay): Non-custodial Blockchain (primarily Setheum) Wallet. Staking, governance, multi-chain tx. Dart + Flutter.
+- [SettPay SDK](https://github.com/balqaasem/settpay-sdk): Flutter SDK for building SettPay Plugins (SPs). SDK for integrating blockchain network as a plugin.
+- [LlamaLit AI](https://github.com/balqaasem/llamalit-ai/tree/main): A Fullstack CSV Data Chatbot with 🦙 Llama2, Sentence Transformers, CTransformers, Langchain & Streamlit.
+- [RustyGPT AI](https://github.com/balqaasem/rustygpt-ai): A Fullstack Rust Chatbot built with Open Source LLMs using Rustformers LLM and Leptos.
+- [rusty-repo](https://github.com/afsall-inc/rusty-repo): A rust repo template to get started.
+- [rust-nvtrust](https://github.com/setheum/rust-nvtrust): NVIDIA Trusted Computing Library for Rust.
+
+---
+
 <br>
 - 🌱 learning Languages.
 <br>
