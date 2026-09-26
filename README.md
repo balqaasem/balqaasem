@@ -62,6 +62,11 @@ Stats (Public Repos Only)
 - [RustyGPT AI](https://github.com/balqaasem/rustygpt-ai): A Fullstack Rust Chatbot built with Open Source LLMs using Rustformers LLM and Leptos.
 - [rusty-repo](https://github.com/afsall-inc/rusty-repo): A rust repo template to get started.
 - [rust-nvtrust](https://github.com/setheum/rust-nvtrust): NVIDIA Trusted Computing Library for Rust.
+- [Flow ABC-XYZ](https://github.com/afsall-inc): WIP - Tip: Family.
+- [Bashar](https://github.com/afsall-inc): WIP - Tip: Allignment.
+- [TeaMoE](https://github.com/afsall-inc): WIP - Tip: AI.
+- [Rookie](https://github.com/afsall-inc): WIP - Tip: Training.
+- [Hoodina](https://github.com/afsall-inc): WIP - Tip: Linux.
 
 ---
 
